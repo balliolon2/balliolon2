@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @balliolon2
+- 👋 Hi, I’m @balliolon2 (Kongsakun Panyang)
 - 👀 I’m interested in Data Science & Data Engineer
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on everyone
