@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science & Data Engineer
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on everyone
-- 📫 How to reach me : Kongsakun@kkumail.com
+- 📫 How to contact me: balliolon@gmail.com
 
 <!---
 balliolon2/balliolon2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
