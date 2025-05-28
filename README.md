@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @balliolon2 (Kongsakun Panyang)
-- 👀 I’m interested in Cybersecurity
+- 👀 I’m interested in Cybersecurity, Network Engineering
 - 🌱 I’m currently study Computer Engineering at Kasetsart University
 - 💞️ I’m looking to collaborate on everyone
 - 📫 How to contact me: balliolon@gmail.com
