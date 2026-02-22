@@ -108,6 +108,25 @@
   - How to write dockerfile and .dockerignore
   - best practice of dockerfile (decrease size of image and container)
 
+## Cybersecurity
+[Onion Lab](https://github.com/balliolon2/onion-lab)
+- This is a homework lab from 204437 Computer System Security at Computer Engineering, Kasetsart University
+- Stack that I do
+  - Frontend: static with HTML
+  - web server: Nginx, Tor
+  - Deployment: Docker
+- What I learn from this project
+  - How to implement Tor service with docker
+
+T-Pot (Honeypot) implement with GCP (I do not create the repo)
+- I got the test from internship as Software Engineering for Defensive software
+  - The tester want me to implement Honeypot and use it
+- What I do
+  - I use GCP to implement [T-Pot](https://github.com/telekom-security/tpotce)
+    - I need to config the firewall rule to let attacker to attack me
+  - I use the Attack Map to visual attacking from around the world
+  - I use Kibana to sort and visual the data
+
 ## Misc
 [SloworK-CPE37](https://github.com/SloworK-CPE37)
 - This is a project from 01204341 Software Engineering, Computer Engineering, Kasetsart University
