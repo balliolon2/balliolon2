@@ -62,3 +62,66 @@
 </div>
 
 ###
+
+# Projects
+
+## Data Science
+[Projects Data Science](https://github.com/balliolon2/Projects-Data-Science)
+- Python, Numpy, Pandas, Matplotlib, Seaborn, Scikitlearn
+- I was do these projects before went to Computer Engineering at Kasetsart University
+
+## Full-Stack Developer
+[therapeia](https://github.com/k2wp/therapeia)
+- This is a project from 01219493 Software Architecture, Computer Engineering, Kasetsart University
+  - I got the frontend role
+- Stack that I do: Dart (Flutter)
+- What I learn from this project
+  - How to coordinate with the team by Git properly
+  - How to set the structure of project file
+  - How to code with dart (Flutter)
+
+[Log Management System](https://github.com/balliolon2/log-management-system)
+- This is a test for internship at Cyber Defense
+  - I got the acceptance from another place, so I decide to not continues the process of this test but it is interesting to end this project
+  - So I finished this project without continue the process of testing
+- Stack that I do
+  - Database: PostgreSQL
+  - Backend: Go
+  - Frontend: React (Vite) + TailwindCSS
+  - Web Server: Nginx
+  - DevOps: Docker
+  - Cloud: GCP
+- What I learn from this project
+  - How to integrate Database+Backend+Frontend with Web Server (to implement port 80 and 443)
+  - How to build the deployment system from isolation running to appliance by dockerfile and docker compose
+  - How to deploy the project to cloud (I used GCP to build Cloud VM with e2 and ubuntu 24.4)
+
+## DevOps
+[Project based learning - Docker optimization](https://github.com/balliolon2/project-based-devops-docker-optimization)
+- After I got the internship as CI/AI for automotive developer (DevOps + AI for automotive software developer) as Software Engineer
+  - I need to learn DevOps as fast as possible before to do and learn at internship
+  - I use Gemini to generate the test to learn and implement skill by project-based
+- Stack that I do
+  - Source code from the test: python
+  - DevOps: Docker
+- What I learn from this project
+  - How to write dockerfile and .dockerignore
+  - best practice of dockerfile (decrease size of image and container)
+
+## Misc
+[SloworK-CPE37](https://github.com/SloworK-CPE37)
+- This is a project from 01204341 Software Engineering, Computer Engineering, Kasetsart University
+  - I got document writer role and QA Testing
+- What I do
+  - Write SRS, SDS Document
+  - Write User Manual
+  - Test the project by Postman and manual process
+  - use git diff to see commit difference for updating process document
+
+[Vibe Code: Weapon Ball Fighting](https://github.com/balliolon2/Vibecode_Weapon_Ball_Fighting)
+- It just for fun project
+- What I do
+  - Design the stack of software (python)
+  - Design the game system (inspired from IG reels)
+  - Design the math inside a game
+  - Vibe code with Gemini CLI
