@@ -145,3 +145,10 @@ T-Pot (Honeypot) implement with GCP (I do not create the repo)
   - Design the game system (inspired from IG reels)
   - Design the math inside a game
   - Vibe code with Gemini CLI
+ 
+[RPG-Based Novel Writer Harness Skill Set](https://github.com/balliolon2/rpg-based-novel-writer-harness-creation)
+- This is a hobby project to combine writing novel with text-based RPG game style
+- What I do
+  - Design the system of user life cycle
+  - Design each skills
+  - Testing the project
