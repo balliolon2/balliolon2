@@ -1,5 +1,5 @@
 <h1 align="center">Kongsakun Panyang (Bond)</h1>
-A student of Computer Engineering, Kasetsart University, Thailand. Now, prepare to internship as Software Engineer
+A student of Computer Engineering, Kasetsart University, Thailand.
 
 ###
 
