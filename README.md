@@ -90,12 +90,29 @@ A student of Computer Engineering, Kasetsart University, Thailand. Now, prepare 
   - Backend: Go
   - Frontend: React (Vite) + TailwindCSS
   - Web Server: Nginx
-  - DevOps: Docker
+  - Container: Docker
   - Cloud: GCP
 - What I learn from this project
   - How to integrate Database+Backend+Frontend with Web Server (to implement port 80 and 443)
   - How to build the deployment system from isolation running to appliance by dockerfile and docker compose
   - How to deploy the project to cloud (I used GCP to build Cloud VM with e2 and ubuntu 24.4)
+ 
+[Family Medicine Neuropathic Pain Tracking Dashboard](https://github.com/balliolon2/fammed-dashboard)
+- This is a hobby project
+- Stack that I do
+  - Database: Neon PostgreSQL
+  - Full-stack framework: NextJS
+  - Frontend: TailwindCSS
+  - Deplotment: Vercel
+  - OAuth: Google OAuth
+- What I learn from this project
+  - To use workflow of matt-pocock skill
+    - Align -> Spec -> Ticket -> Implement -> Review
+      - Align: to-loop -> grill-with-docs
+      - Spec: to-spec
+      - Ticket: to-tickets
+      - Implement: implement
+      - Review: tdd -> review manually
 
 ## DevOps
 [Project based learning - Docker optimization](https://github.com/balliolon2/project-based-devops-docker-optimization)
