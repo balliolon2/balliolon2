@@ -108,7 +108,7 @@ A student of Computer Engineering, Kasetsart University, Thailand.
 - What I learn from this project
   - To use workflow of matt-pocock skill
     - Align -> Spec -> Ticket -> Implement -> Review
-      - Align: to-loop -> grill-with-docs
+      - Align: loop-me -> grill-with-docs
       - Spec: to-spec
       - Ticket: to-tickets
       - Implement: implement
